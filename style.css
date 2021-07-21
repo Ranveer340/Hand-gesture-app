@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: white;
+}
+#camera,#result{
+    border: 2px solid white;
+    width: 350px;
+    height: 300px;
+    
+}
